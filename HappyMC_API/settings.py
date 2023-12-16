@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-(ck)-bbww@=1h46@2&$kg9n#zzf0hc_ewnud1@npc^p3)7h0#a
 DEBUG = True
 
 ALLOWED_HOSTS = ["alittlehuaji.top","api.alittlehuaji.top"]
-API_TOKEN = '4s10rVvWmd9XRwv4CRaW7ru8V4KsMcqtcFFQtgG04k0UGIcFFADwKSwd9GagMWml'
+API_TOKEN = 'Pleace add your token here'
 
 STATIC_URL = '/static/'
 STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]
