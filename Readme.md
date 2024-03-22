@@ -21,4 +21,4 @@ origin	图片来源（暂不可用） \
 image	图片
 
 ## 另外
-使用前请在```./HappyMC_API/settings.py```里的API_TOKEN处添加你的token。token可以使用```./Token/token.py```来生成属于你的Token，用法及解释可查看```./Token/Readme.md```
+使用前请在```HappyMC_API/settings.py```里的API_TOKEN处添加你的token。token可以使用```Token/token.py```来生成属于你的Token，用法及解释可查看```Token/Readme.md```
